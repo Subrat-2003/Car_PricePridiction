@@ -1,7 +1,8 @@
-# Car_PricePridiction
+# Car_PricePridiction:
 Focuses on predicting car purchase price based on customer demographics and financial data (like age, annual salary, credit card debt, net worth). It uses models like Linear Regression, Decision Trees, Random Forests, SVM, Gradient Boosting, KNN, XGBoost, LightGBM, and CatBoost for this prediction task.
 
 **Task Objectives**
+
 The goal of this project is to develop a predictive machine learning model that assists businesses in optimizing marketing strategies to drive sales growth.
 
 Specifically, this project aims to:
@@ -17,6 +18,7 @@ Enable data-driven decision-making, maximizing business revenue opportunities.
 By leveraging predictive analytics, businesses can target their marketing efforts more effectively, optimize product pricing, and accelerate sustainable growth.
 
 **Requirements**
+
 Python 3.x
 
 Jupyter Notebook
@@ -24,6 +26,7 @@ Jupyter Notebook
 Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 **Steps to Run This Project**
+
 Follow these instructions to set up and run the project locally:
 
 Clone the Repository
